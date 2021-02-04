@@ -8,7 +8,7 @@ This is a YouTube_Downloader.
 
 # Method
 
-You can find where the "pytube" folder by the following code.
+You can find out the "pytube" folder by the following code.
 ```python
 import os, pytube
 print( os.path.dirname( pytube.__file__ ) )
