@@ -32,9 +32,9 @@ File: YouTube_Downloader_v3.py
 1. Complete the following for "Windows 10".
    1. Download and install "python" from website (https://www.python.org/).
    2. Go to CMD and type some commands.
-      a. Type "pip install pytube" as a command to install "pytube".
-      b. Type "pip install pytube3" as a command to install "pytube3".
-      c. Type "pip install ffmpeg-python" as a command to install "ffmpeg-python".
+      1. Type "pip install pytube" as a command to install "pytube".
+      2. Type "pip install pytube3" as a command to install "pytube3".
+      3. Type "pip install ffmpeg-python" as a command to install "ffmpeg-python".
    3. Modify "pytube/extract.py". Change "cipher" in 301 line to "signatureCipher".
    4. Download "ffmpeg" from website (https://github.com/BtbN/FFmpeg-Builds/releases).
    5. You must check whether it contains the "bin" folder or not.
@@ -47,6 +47,6 @@ File: YouTube_Downloader_v3.py
 ### \[references]
 
 + ffmpeg
-  https://ffmpeg.org/
+  + https://ffmpeg.org/
 + pytube — pytube 10.4.1 documentation
-  https://python-pytube.readthedocs.io/en/latest/
+  + https://python-pytube.readthedocs.io/en/latest/
