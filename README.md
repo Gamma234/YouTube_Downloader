@@ -5,10 +5,10 @@ This is a YouTube_Downloader.
 
 ### \[Contents]
 
-Folder: data \n
-File: data\save_path.txt
-File: YouTube_Downloader_Body_v3.py
-File: YouTube_Downloader_v3.py
++ Folder: data
++ File: data\save_path.txt
++ File: YouTube_Downloader_Body_v3.py
++ File: YouTube_Downloader_v3.py
 
 ### \[Run codes in an IDE]
 
