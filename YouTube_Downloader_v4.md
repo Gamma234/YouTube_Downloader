@@ -4,7 +4,7 @@
 
 ### \[Contents]
 
-+ YouTube_Downloader_v3
++ YouTube_Downloader_v4
   + data
     + tool
       + YouTube_DLer_v4.py
@@ -38,7 +38,7 @@ pytube, ffmpeg, re, os, shutil
    (4) Add "C:\ffmpeg\bin" in "Environment Variable" -> "System Variables" -> "Path".  
    (5) Go to CMD and type "ffmpeg" as a command to check whether it is successful or not.  
  
-3. Run "YouTube_Downloader_v3.py" in an IDE.
+3. Run "YouTube_Downloader_v4.py" in an IDE.
 
 ----
 
@@ -59,7 +59,7 @@ pytube, ffmpeg, re, os, shutil
    (7) Add "C:\ffmpeg\bin" in "Environment Variable" -> "System Variables" -> "Path".  
    (8) Go to CMD and type "ffmpeg" as a command to check whether it is successful or not.  
 
-2. Type "python YouTube_Downloader_v3.py" as a command to run codes in the CMD.
+2. Type "python YouTube_Downloader_v4.py" as a command to run codes in the CMD.
 
 ----
 
