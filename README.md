@@ -4,14 +4,14 @@ This is a YouTube_Downloader.
 
 ----
 
-# Information
+## Information
 
 + See information about "YouTube_Downloader_v3" in "YouTube_Downloader_v3.md".
 + See information about "YouTube_Downloader_v4" in "YouTube_Downloader_v4.md".
 
 ----
 
-# Method
+## Method
 
 You can find out the "pytube" folder by the following code.
 ```python
@@ -21,7 +21,7 @@ print( os.path.dirname( pytube.__file__ ) )
 
 ----
 
-# How to add a path in "Environment Variable" -> "System Variables" -> "Path" ?
+## How to add a path in "Environment Variable" -> "System Variables" -> "Path" ?
 
 1. Right click "This PC".
 2. Left click "Properties".
