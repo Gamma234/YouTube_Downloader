@@ -16,7 +16,7 @@ pytube, ffmpeg, re, os, shutil
 ### \[Run codes in an IDE]
 
 1. Complete the following for "IDE".  
-   (1) install packages
+   (1) install packages  
        ```python
        pip install pytube
        pip install pytube3
