@@ -29,8 +29,8 @@ pytube, ffmpeg, re, os, shutil
        pip install pytube3  
        pip install ffmpeg-python  
    ```         
-   (2) Modify "pytube/extract.py".  
-       \Change "cipher" in 301 line to "signatureCipher".
+   (2) Modify "pytube/extract.py".    
+       Change "cipher" in 301 line to "signatureCipher".
 
 2. Complete the following for "Windows 10".  
    (1) Download "ffmpeg" from website (https://github.com/BtbN/FFmpeg-Builds/releases).  
@@ -53,7 +53,7 @@ pytube, ffmpeg, re, os, shutil
        pip install pytube3  
        pip install ffmpeg-python  
    ``` 
-   (3) Modify "pytube/extract.py".  
+   (3) Modify "pytube/extract.py".    
        Change "cipher" in 301 line to "signatureCipher".  
    (4) Download "ffmpeg" from website (https://github.com/BtbN/FFmpeg-Builds/releases).  
    (5) You must check whether it contains the "bin" folder or not.  
