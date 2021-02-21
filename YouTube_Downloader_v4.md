@@ -15,16 +15,14 @@ pytube, ffmpeg, re, os, shutil
 
 ### \[Run codes in an IDE]
 
-1. Complete the following for "IDE".
-   ```
-   pip install pytube
-   pip install pytube3
-   pip install ffmpeg-python
-   ```
-   1. Install "pytube" (pip install pytube).
-   2. Install "pytube3" (pip install pytube3).
-   3. Install "ffmpeg-python" (pip install ffmpeg-python).
-   4. Modify "pytube/extract.py". Change "cipher" in 301 line to "signatureCipher".
+1. Complete the following for "IDE".  
+   (1) install packages
+       ```python
+       pip install pytube
+       pip install pytube3
+       pip install ffmpeg-python
+       ```  
+   (2) Modify "pytube/extract.py". Change "cipher" in 301 line to "signatureCipher".
 
 2. Complete the following for "Windows 10".
    1. Download "ffmpeg" from website (https://github.com/BtbN/FFmpeg-Builds/releases).
