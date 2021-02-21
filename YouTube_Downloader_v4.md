@@ -1,5 +1,7 @@
 ## YouTube_Downloader_v4
 
+----
+
 ### \[Contents]
 
 + YouTube_Downloader_v3
@@ -10,11 +12,15 @@
   + ip_file.txt
   + YouTube_Downloader_v4.py
   
+----
+
 ### \[Required Packages]
 
 pytube, ffmpeg, re, os, shutil
 
-### \[Run codes in an IDE]
+----
+
+### \[Run Codes in an IDE]
 
 1. Complete the following for "IDE".  
    (1) Install packages.     
@@ -35,7 +41,9 @@ pytube, ffmpeg, re, os, shutil
  
 3. Run "YouTube_Downloader_v3.py" in an IDE.
 
-### \[Run codes in the CMD in Windows 10]
+----
+
+### \[Run Codes in the CMD in Windows 10]
 
 1. Complete the following for "Windows 10".  
    (1) Download and install "python" from website (https://www.python.org/).  
@@ -54,6 +62,8 @@ pytube, ffmpeg, re, os, shutil
    (8) Go to CMD and type "ffmpeg" as a command to check whether it is successful or not.  
 
 2. Type "python YouTube_Downloader_v3.py" as a command to run codes in the CMD.
+
+----
 
 ### \[References]
 
