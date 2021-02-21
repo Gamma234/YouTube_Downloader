@@ -18,9 +18,9 @@ pytube, ffmpeg, re, os, shutil
 1. Complete the following for "IDE".  
    (1) install packages  
        ```python
-       pip install pytube
-       pip install pytube3
-       pip install ffmpeg-python
+       pip install pytube  
+       pip install pytube3  
+       pip install ffmpeg-python  
        ```  
    (2) Modify "pytube/extract.py". Change "cipher" in 301 line to "signatureCipher".
 
