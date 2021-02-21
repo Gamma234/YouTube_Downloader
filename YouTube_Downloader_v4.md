@@ -17,7 +17,7 @@ pytube, ffmpeg, re, os, shutil
 
 1. Complete the following for "IDE".  
    (1) install packages  
-       ```python
+       ```  
        pip install pytube  
        pip install pytube3  
        pip install ffmpeg-python  
