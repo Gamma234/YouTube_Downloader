@@ -14,7 +14,7 @@
   
 ----
 
-### \[Required Packages]
+### \[Import Packages]
 
 pytube, ffmpeg, re, os, shutil
 
