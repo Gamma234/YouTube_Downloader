@@ -63,8 +63,9 @@ pytube, ffmpeg, re, os, shutil
 
 ### \[Error Solution]
 
-Problem : cipher  
-Solution: Modify "pytube/extract.py". Change "cipher" at the line 301 to "signatureCipher".  
+Problem | Solution
+------- | --------
+cipher  | Modify "pytube/extract.py". Change "cipher" at the line 301 to "signatureCipher".  
 
 ----
 
