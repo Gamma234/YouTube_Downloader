@@ -28,8 +28,7 @@ pytube, ffmpeg, re, os, shutil
        pip install pytube  
        pip install pytube3  
        pip install ffmpeg-python  
-   ```         
-   (2) Modify "pytube/extract.py". Change "cipher" at the line 301 to "signatureCipher".
+   ```    
 
 2. Complete the following for "Windows 10".  
    (1) Download "ffmpeg" from website (https://github.com/BtbN/FFmpeg-Builds/releases).  
@@ -51,15 +50,21 @@ pytube, ffmpeg, re, os, shutil
        pip install pytube  
        pip install pytube3  
        pip install ffmpeg-python  
-   ``` 
-   (3) Modify "pytube/extract.py". Change "cipher" at the line 301 to "signatureCipher".  
-   (4) Download "ffmpeg" from website (https://github.com/BtbN/FFmpeg-Builds/releases).  
-   (5) You must check whether it contains the "bin" folder or not.  
-   (6) Change the file name to "ffmpeg" and put in "C:\".  
-   (7) Add "C:\ffmpeg\bin" in "Environment Variable" -> "System Variables" -> "Path".  
-   (8) Go to CMD and type "ffmpeg" as a command to check whether it is successful or not.  
+   ```   
+   (3) Download "ffmpeg" from website (https://github.com/BtbN/FFmpeg-Builds/releases).  
+   (4) You must check whether it contains the "bin" folder or not.  
+   (5) Change the file name to "ffmpeg" and put in "C:\".  
+   (6) Add "C:\ffmpeg\bin" in "Environment Variable" -> "System Variables" -> "Path".  
+   (7) Go to CMD and type "ffmpeg" as a command to check whether it is successful or not.  
 
 2. Type "python YouTube_Downloader_v4.py" as a command to run codes in the CMD.
+
+----
+
+### \[Error Solution]
+
+Problem : cipher  
+Solution: Modify "pytube/extract.py". Change "cipher" at the line 301 to "signatureCipher".  
 
 ----
 
